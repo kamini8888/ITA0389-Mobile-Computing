@@ -1,1 +1,1 @@
-# ITA0389-Mobile-Computing
+# ITA0389-Mobile Computing for 5G Application
